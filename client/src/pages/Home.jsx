@@ -140,7 +140,6 @@ export default function Home() {
           </div>
         )}
 
-        {/* Sale Listings */}
         {saleListings && saleListings.length > 0 && (
           <div>
             <div className="flex justify-between items-center mb-6">
